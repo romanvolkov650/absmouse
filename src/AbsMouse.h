@@ -12,6 +12,8 @@
 #define MOUSE_LEFT 0x01
 #define MOUSE_RIGHT 0x02
 #define MOUSE_MIDDLE 0x04
+#define MOUSE_4 0x08
+#define MOUSE_5 0x10
 
 class AbsMouse_
 {
